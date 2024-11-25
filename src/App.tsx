@@ -9,12 +9,7 @@ function App() {
 
   return (
     <>
-    <ListaNova 
-    itens = {tecs}
-    />
-    <ListaNova 
-    itens = {[]}
-    />
+    <Form/>
     </>
   );
 }
