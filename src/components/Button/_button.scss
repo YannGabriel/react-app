@@ -1,0 +1,18 @@
+
+
+button.formButton{
+  background-color: lightblue;
+  border: 0;
+  margin: auto;
+  display: flex;
+  margin-top: 2.5rem;
+  width: 70%;
+  padding: 1rem;
+  border-radius: 16px;
+  color: white;
+  p.buttonText{
+    text-align: center;
+    font-size: 1.05rem;
+    margin: auto;
+  }
+}
